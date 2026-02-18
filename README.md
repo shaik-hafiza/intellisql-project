@@ -5,7 +5,7 @@
 
 IntelliSQL is an AI-powered application that converts natural language queries into SQL queries using Google's Gemini Pro model. It allows users to interact with databases easily without writing SQL code manually.
 
-
+---
 ## Project Structure
 IntelliSQL/
 │
@@ -15,6 +15,8 @@ IntelliSQL/
 ├── .env
 └── myenv/
 
+---
+
 ## Features
 •	Convert natural language into SQL queries
 •	Powered by Google Gemini Pro
@@ -22,6 +24,7 @@ IntelliSQL/
 •	Interactive Streamlit interface
 •	Fast and accurate results
 
+---
 ## Technologies Used
 •	Python
 •	Streamlit
